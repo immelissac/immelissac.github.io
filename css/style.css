@@ -120,19 +120,19 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	font-family: 'Parisienne';
 	font-style: normal;
 	font-weight: 400;
-	src: local('Parisienne'), local('Parisienne-Regular'), url(http://themes.googleusercontent.com/static/fonts/parisienne/v1/1wiHF6pWOa568Cj3p-anxC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+	src: local('Parisienne'), local('Parisienne-Regular'), url(https://themes.googleusercontent.com/static/fonts/parisienne/v1/1wiHF6pWOa568Cj3p-anxC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
 }
 @font-face {
     font-family: 'Dancing Script';
     font-style: normal;
     font-weight: 400;
-    src: local('Dancing Script'), local('DancingScript'), url(http://themes.googleusercontent.com/static/fonts/dancingscript/v3/DK0eTGXiZjN6yA8zAEyM2bDH3ri20rYH10B2w3wbVeU.woff) format('woff');
+    src: local('Dancing Script'), local('DancingScript'), url(https://themes.googleusercontent.com/static/fonts/dancingscript/v3/DK0eTGXiZjN6yA8zAEyM2bDH3ri20rYH10B2w3wbVeU.woff) format('woff');
 } 
 @font-face {
 	font-family: 'Antic Didone';
 	font-style: normal;
 	font-weight: 400;
-	src: local('Antic Didone'), local('AnticDidone-Regular'), url(http://themes.googleusercontent.com/static/fonts/anticdidone/v1/r3nJcTDuOluOL6LGDV1vR4nF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+	src: local('Antic Didone'), local('AnticDidone-Regular'), url(https://themes.googleusercontent.com/static/fonts/anticdidone/v1/r3nJcTDuOluOL6LGDV1vR4nF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
 }
 /* Navigation */
 #menu {
