@@ -281,6 +281,15 @@ header .intro-text {
 	color: #cc0033;
 	text-align: left;
 }
+#contact .contact-email {
+	font-family:Antic Didone; 
+	font-weight: 600; 
+	color: #54b0b8"
+}
+#contact .contact-phone {
+	font-family:'Roboto', sans-serif; 
+	font-weight: 300;
+}
 label {
 	font-size: 12px;
 	font-weight: 400;
